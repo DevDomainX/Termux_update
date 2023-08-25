@@ -3,6 +3,7 @@ from time import sleep
 import os
 from colorama import init, Fore, Style, Back
 init()
+os.system("clear")
 logo = Fore.YELLOW+Style.BRIGHT+"""
 
 '##::::'##:'########::'########:::::'###::::'##### ###:'########:
